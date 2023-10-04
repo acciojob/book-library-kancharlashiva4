@@ -4,6 +4,10 @@ body {
     padding: 0;
 }
 
+h3{
+	text-align:center;
+}
+
 .book-library {
     background-color: #ffffff; /* Set background color for the book library */
     padding: 20px; /* Add padding as needed */

@@ -40,7 +40,8 @@ body {
 .price-block {
     background-color: #2ecc71; /* Set background color for the price block */
     padding: 5px 10px; /* Add padding as needed */
-    border-radius: 3px;
+    border-radius: 1px;
+	width
     display: inline-block;
     margin-top: 10px;
 }
